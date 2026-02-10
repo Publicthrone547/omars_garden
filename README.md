@@ -20,3 +20,6 @@ The project is built using modern motion and animation tools.
 - **Locomotive Scroll** — smooth scrolling and scroll input handling  
 - **GSAP (GreenSock)** — animation engine and timeline control  
 
+## Languages
+Currently available in English and Russian.  
+More languages will be added in the future.
