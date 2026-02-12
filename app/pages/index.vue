@@ -1,10 +1,18 @@
-<script setup lang="ts">
-import Hero from '~/components/sections/Hero.vue';
-
-</script>
-
 <template>
     <div>
-        <Hero/>
+        <SectionsHero/>
+        <SectionsFirstContainer/>
+        <SectionsSecondContainer/>
+        <SectionsThirdContainer/>
+        <SectionsFourthContainer/>
+        <SectionsFifthContainer/>
     </div>
 </template>
+
+<script setup lang="ts">
+import LocomotiveScroll from 'locomotive-scroll'
+
+onMounted(() => {
+    new LocomotiveScroll()
+})
+</script>
