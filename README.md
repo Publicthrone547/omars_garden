@@ -21,8 +21,7 @@ The project is built using modern motion and animation tools.
 - **GSAP (GreenSock)** — animation engine and timeline control  
 
 ## Languages
-Currently available in English and Russian.  
-More languages will be added in the future.
+Currently available in English and Russian.
 
 
 ## Quick Setup
