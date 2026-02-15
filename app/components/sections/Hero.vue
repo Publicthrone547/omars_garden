@@ -4,7 +4,7 @@
 
         <div class="absolute inset-0 bg-black/40">
         </div>
-        <div class="relative text-7xl text-white font-bold">
+        <div class="relative text-4xl md:text-7xl text-white font-bold">
             Look at the city, isn't it beautfiul?
         </div>
     </div>

@@ -1,7 +1,7 @@
 <template>
   <div class="main-container">
     <div class="min-h-screen flex mx-auto justify-center items-center text-center">
-      <div class="text-7xl font-bold">Turn on your imagination</div>
+      <div class="text-3xl md:text-7xl font-bold">Turn on your imagination</div>
     </div>
 
     <section ref="trigger" class="h-screen w-screen overflow-hidden relative">

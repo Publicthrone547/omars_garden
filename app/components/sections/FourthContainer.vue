@@ -20,7 +20,7 @@
         </div>
 
         <div class="z-40 text-center pointer-events-none">
-            <div class="text-8xl font-black uppercase mb-4">Pure <span class="text-emerald-500"> Nature</span></div>
+            <div class="text-4xl md:text-8xl font-black uppercase mb-4">Pure <span class="text-emerald-500"> Nature</span></div>
             <div class="text-xl text-gray-400">Locomotive v5 + GSAP Parallax</div>
         </div>
     </section>
